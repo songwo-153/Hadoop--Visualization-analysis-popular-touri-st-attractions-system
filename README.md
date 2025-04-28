@@ -9,7 +9,7 @@
 1. 开发工具和实现技术
 Pycharm, Python3.7，Django框架，Hadoop，Spark，Hive，spider爬虫，Mysql，navicat数据库管理工具，B/S结构（浏览器与服务器），vue，css，javascript，html，echarts图表，智能推荐算法等。
 
-源码获取（学习交流+qq：2474345497）：[基于Hadoop大数据技术旅游景点数据分析与可视化推荐系统](https://download.csdn.net/download/weixin_46115961/90461028)
+源码获取（学习交流+qq：2474345497）：[点击基于Hadoop大数据技术旅游景点数据分析与可视化推荐系统源码](https://download.csdn.net/download/weixin_46115961/90461028)
 
 2. 系统实现
 2.1 本系统通过分模块设计，分为前台用户系统和后台管理员系统，主要实现前台系统首页、用户注册，登录，个人中心管理，热门景点推荐、热门信息，特色美食，旅游路线，旅游资讯、投诉建议，收藏，评分，评论，个人中心等功能的一体化管理。
