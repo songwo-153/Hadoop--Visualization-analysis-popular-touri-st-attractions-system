@@ -18,6 +18,6 @@ Pycharm, Python3.7，Django框架，Hadoop，Spark，Hive，spider爬虫，Mysql
 
 系统包括管理员和用户两个角色
 
-系统功能实现截图：[点击.系统功能实现展示](https://blog.csdn.net/weixin_46115961/article/details/147572081?spm=1001.2014.3001.5501）
+系统功能实现截图：[点击系统功能实现展示](https://blog.csdn.net/weixin_46115961/article/details/147572081?spm=1001.2014.3001.5501）
 
                           
