@@ -1,2 +1,23 @@
 # Hadoop--Visualization-analysis-popular-touri-st-attractions-system
-基于Hadoop大数据技术旅游景点数据分析与可视化推荐系统（基于Spark和Hive的热门旅游景点数据分析与可视化系统）基于Python的热门旅游景点数据分析与可视化系统。 1. 开发工具和实现技术 Pycharm, Python3.7，Django框架，Hadoop，Spark，Hive，spider爬虫，Mysql，navicat数据库管理工具，B/S结构（浏览器与服务器），vue，css，javascript，html，echarts图表，智能推荐算法等，分为前台用户系统和后台管理系统  
+基于Hadoop大数据技术旅游景点数据分析与可视化推荐系统
+
+基于Spark和Hive的热门旅游景点数据分析与可视化系统
+
+基于Python的热门旅游景点数据分析与可视化系统。 
+
+
+1. 开发工具和实现技术
+Pycharm, Python3.7，Django框架，Hadoop，Spark，Hive，spider爬虫，Mysql，navicat数据库管理工具，B/S结构（浏览器与服务器），vue，css，javascript，html，echarts图表，智能推荐算法等。
+
+源码获取：[基于Hadoop大数据技术旅游景点数据分析与可视化推荐系统](https://download.csdn.net/download/weixin_46115961/90461028)
+
+2. 系统实现
+2.1 本系统通过分模块设计，分为前台用户系统和后台管理员系统，主要实现前台系统首页、用户注册，登录，个人中心管理，热门景点推荐、热门信息，特色美食，旅游路线，旅游资讯、投诉建议，收藏，评分，评论，个人中心等功能的一体化管理。
+
+2.2后台管理系统首页，用户管理，热门景点管理，景点数据爬虫更新，特色美食管理，旅游路线管理，旅游资讯管理，投诉建议管理，个人中心管理，数据分析可视化看板，系统管理，个人资料管理等。此外，该系统属于B/S结构，简单易上手，只需体验几次，用户就可以很熟练地使用各种功能。从热门旅游景点数据分析与可视化管理的实际需要出发，为降低系统的耦合性，采用Django框架集完成了系统总体架构的设计，以提高系统的重用性、可适用性及可维护性。
+
+系统包括管理员和用户两个角色
+
+系统功能实现截图：[点击.系统功能实现展示](https://blog.csdn.net/weixin_46115961/article/details/147572081?spm=1001.2014.3001.5501）
+
+                          
